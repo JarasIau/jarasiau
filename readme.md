@@ -1,26 +1,25 @@
-# Jarosław D.
-## Backend Developer (Python / FastAPI)
+<h1 align="center">Jarosław D.</h1>
+<h2 align="center">Backend Developer (Python / FastAPI)</h2>
+ 
+<p align="center">Computer Science student at the University of Łódź.</p>
+ 
+<p align="center">
+  <a href="mailto:jaraslau@tutanota.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <a href="https://jarasiau.github.io"><img src="https://img.shields.io/badge/Website-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Lodz,_Poland-1a1a1a?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-Computer Science student at the University of Łódź.
-Currently enrolled in an internship at innowise.
+<h2 align="center">Tech Stack</h2>
 
-[![Email](https://img.shields.io/badge/jaraslau@tutanota.com-555?style=flat-square&logo=tutanota&logoColor=white)](mailto:jaraslau@tutanota.com)
-[![Website](https://img.shields.io/badge/jarasiau.github.io-555?style=flat-square&logo=github&logoColor=white)](https://jarasiau.github.io)
-[![Location](https://img.shields.io/badge/Łódź,_Poland-555?style=flat-square)](https://maps.google.com/?q=Łódź,Poland)
-
+<table align="center">
+  <tr><th></th><th>Tools</th></tr>
+  <tr><td>Languages</td><td>Python, SQL</td></tr>
+  <tr><td>Backend</td><td>FastAPI, Flask, SQLAlchemy, Alembic, Pydantic</td></tr>
+  <tr><td>Async / Jobs</td><td>Redis, rq, arq</td></tr>
+  <tr><td>Tooling</td><td>Docker, Git, Linux, Poetry, mypy</td></tr>
+</table>
+ 
 ---
 
-## Tech Stack
-
-| | Tools |
-|---|---|
-| Languages | Python, SQL |
-| Backend | FastAPI, Flask, SQLAlchemy, Pydantic |
-| Async / Jobs | Redis, rq, arq |
-| Tooling | Docker, Git, Linux, poetry, mypy, ruff, alembic |
-
----
-
-## Languages
-
-English (C1) · Polish (B2) · Russian (native) · Belarusian (native)
+<h2 align="center">Languages</h2>
+<p align="center">English (C1) · Polish (B2) · Russian (native) · Belarusian (native)</p>
