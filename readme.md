@@ -13,10 +13,10 @@
 
 <table align="center">
   <tr><th></th><th>Tools</th></tr>
-  <tr><td>Languages</td><td>Python, SQL</td></tr>
-  <tr><td>Backend</td><td>FastAPI, Flask, SQLAlchemy, Alembic, Pydantic</td></tr>
-  <tr><td>Async / Jobs</td><td>Redis, rq, arq</td></tr>
-  <tr><td>Tooling</td><td>Docker, Git, Linux, Poetry, mypy</td></tr>
+  <tr><td><b>Languages</b></td><td>Python, SQL</td></tr>
+  <tr><td><b>Backend</b></td><td>FastAPI, Flask, SQLAlchemy, Alembic, Pydantic</td></tr>
+  <tr><td><b>Async / Jobs</b></td><td>Redis, rq, arq</td></tr>
+  <tr><td><b>Tooling</b></td><td>Docker, Git, Linux, Poetry, mypy</td></tr>
 </table>
  
 ---
