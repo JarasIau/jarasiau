@@ -16,7 +16,8 @@
   <tr><td><b>Languages</b></td><td>Python, SQL</td></tr>
   <tr><td><b>Backend</b></td><td>FastAPI, Flask, SQLAlchemy, Pydantic</td></tr>
   <tr><td><b>Async / Jobs</b></td><td>Redis, rq, arq</td></tr>
-  <tr><td><b>Tooling</b></td><td>Docker, Git, Linux, Poetry, mypy, Alembic</td></tr>
+  <tr><td><b>Tooling</b></td><td>Docker, Git, Linux, Poetry, mypy, Alembic, pytest</td></tr>
+ <tr><td><b>Cloud</b></td><td>AWS (S3, SES) via aioboto3/boto3</td></tr> 
 </table>
  
 ---
