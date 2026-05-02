@@ -12,12 +12,45 @@
 <h2 align="center">Tech Stack</h2>
 
 <table align="center">
-  <tr><th></th><th>Tools</th></tr>
-  <tr><td><b>Languages</b></td><td>Python, SQL</td></tr>
-  <tr><td><b>Backend</b></td><td>FastAPI, Flask, SQLAlchemy, Pydantic</td></tr>
-  <tr><td><b>Async / Jobs</b></td><td>Redis, rq, arq</td></tr>
-  <tr><td><b>Tooling</b></td><td>Docker, Git, Linux, Poetry, mypy, Alembic, pytest</td></tr>
- <tr><td><b>Cloud</b></td><td>AWS (S3, SES) via aioboto3/boto3</td></tr> 
+  <tr>
+    <th>Category</th>
+    <th>Tools</th>
+  </tr>
+
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python</td>
+  </tr>
+
+  <tr>
+    <td><b>Frameworks & APIs</b></td>
+    <td>FastAPI, Flask, Pydantic</td>
+  </tr>
+
+  <tr>
+    <td><b>Databases & ORM</b></td>
+    <td>PostgreSQL, SQLAlchemy, Alembic</td>
+  </tr>
+
+  <tr>
+    <td><b>Caching / Queues / Background Jobs</b></td>
+    <td>Redis, rq/arq, RabbitMQ</td>
+  </tr>
+
+  <tr>
+    <td><b>Dev Tools</b></td>
+    <td>Git, Docker, Linux, Shell</td>
+  </tr>
+
+  <tr>
+    <td><b>Python Tooling / Quality</b></td>
+    <td>Poetry, Pytest, Mypy</td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud & CI/CD</b></td>
+    <td>AWS (S3, SES), GitHub Actions</td>
+  </tr>
 </table>
  
 ---
