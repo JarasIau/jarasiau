@@ -24,12 +24,12 @@
 
   <tr>
     <td><b>Frameworks & APIs</b></td>
-    <td>FastAPI, Flask, Pydantic</td>
+    <td>FastAPI, Flask, Django</td>
   </tr>
 
   <tr>
     <td><b>Databases & ORM</b></td>
-    <td>MongoDB, PostgreSQL, SQLAlchemy, Alembic</td>
+    <td>MongoDB, PostgreSQL, MySQL, SQLAlchemy, Alembic</td>
   </tr>
 
   <tr>
