@@ -24,7 +24,7 @@
 
   <tr>
     <td><b>Frameworks & APIs</b></td>
-    <td>FastAPI, Flask, Django</td>
+    <td>FastAPI, Flask, Django/DRF</td>
   </tr>
 
   <tr>
@@ -34,7 +34,7 @@
 
   <tr>
     <td><b>Caching / Queues / Background Jobs</b></td>
-    <td>Redis, rq/arq, RabbitMQ</td>
+    <td>Redis, rq/arq, Celery, RabbitMQ</td>
   </tr>
 
   <tr>
