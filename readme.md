@@ -39,7 +39,7 @@
 
   <tr>
     <td><b>Dev Tools</b></td>
-    <td>Git, Docker, Linux, Shell</td>
+    <td>Git, Docker, Kubernetes, Helm, minikube, Linux, Shell</td>
   </tr>
 
   <tr>
@@ -49,7 +49,7 @@
 
   <tr>
     <td><b>Cloud & CI/CD</b></td>
-    <td>AWS (S3, SES), GitHub Actions</td>
+    <td>AWS (S3, Lambda, SES), GitHub Actions, Jenkins, Terraform</td>
   </tr>
 </table>
  
