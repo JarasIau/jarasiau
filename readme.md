@@ -51,6 +51,10 @@
     <td><b>Cloud & CI/CD</b></td>
     <td>AWS (S3, Lambda, SES), GitHub Actions, Jenkins, Terraform</td>
   </tr>
+  <tr>
+    <td><b>Familiar with</b></td>
+    <td>JavaScript, TypeScript, React</td>
+  </tr>
 </table>
  
 ---
