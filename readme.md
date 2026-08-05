@@ -39,17 +39,12 @@
 
   <tr>
     <td><b>Dev Tools</b></td>
-    <td>Git, Docker, Kubernetes, Helm, minikube, Linux, Shell</td>
-  </tr>
-
-  <tr>
-    <td><b>Python Tooling / Quality</b></td>
-    <td>Poetry, Pytest, Mypy</td>
+    <td>Git, Docker, Kubernetes, Helm, Linux, Shell, pytest</td>
   </tr>
 
   <tr>
     <td><b>Cloud & CI/CD</b></td>
-    <td>AWS (S3, Lambda, SES), GitHub Actions, Jenkins, Terraform</td>
+    <td>AWS (S3, Lambda, SES, IAM), GitHub Actions, Jenkins, Terraform</td>
   </tr>
   <tr>
     <td><b>Familiar with</b></td>
