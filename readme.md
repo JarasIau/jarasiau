@@ -5,7 +5,7 @@
  
 <p align="center">
   <a href="mailto:jaraslau@tutanota.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=maildotru&logoColor=white" /></a>
-  <a href="https://jaraslau.github.io"><img src="https://img.shields.io/badge/Website-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://jaraslau.xyz"><img src="https://img.shields.io/badge/Website-1a1a1a?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Lodz,_Poland-1a1a1a?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -29,7 +29,7 @@
 
   <tr>
     <td><b>Databases & ORM</b></td>
-    <td>MongoDB, PostgreSQL, MySQL, SQLAlchemy, Alembic</td>
+    <td>MongoDB, PostgreSQL, MySQL, Alembic</td>
   </tr>
 
   <tr>
