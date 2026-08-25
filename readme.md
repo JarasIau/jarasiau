@@ -39,7 +39,7 @@
 
   <tr>
     <td><b>Dev Tools</b></td>
-    <td>Git, Docker, Kubernetes, Helm, Linux, Shell, pytest</td>
+    <td>Git, Docker, Kubernetes, Helm, Linux, Shell, pytest, Codex, OpenCode</td>
   </tr>
 
   <tr>
