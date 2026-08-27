@@ -18,13 +18,8 @@
   </tr>
 
   <tr>
-    <td><b>Languages</b></td>
-    <td>Python</td>
-  </tr>
-
-  <tr>
-    <td><b>Frameworks & APIs</b></td>
-    <td>FastAPI, Flask, Django/DRF</td>
+    <td><b>Core Backend</b></td>
+    <td>Python, FastAPI, Flask, Django/DRF</td>
   </tr>
 
   <tr>
@@ -38,8 +33,8 @@
   </tr>
 
   <tr>
-    <td><b>Dev Tools</b></td>
-    <td>Git, Docker, Kubernetes, Helm, Linux, Shell, pytest, Codex, OpenCode</td>
+    <td><b>Tooling</b></td>
+    <td>Kubernetes, Helm, Linux, Bash / Shell, pytest, Codex, OpenCode</td>
   </tr>
 
   <tr>
@@ -48,7 +43,7 @@
   </tr>
   <tr>
     <td><b>Familiar with</b></td>
-    <td>JavaScript, TypeScript, React</td>
+    <td>TypeScript, React, C extensions for Python</td>
   </tr>
 </table>
  
